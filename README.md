@@ -15,7 +15,7 @@ Build an interactive dashboard in Excel to visually explore the data.
 Interpret insights and suggest practical recommendations for pollution control.
 
 🧠 Process & Methodology
-1. Data Import & Cleaning
+# 1. Data Import & Cleaning
 
 The pollution dataset was first imported into a MySQL database.
 
@@ -25,7 +25,7 @@ All numerical fields (lat, long, tonnage, year, distance) were standardized.
 
 Text fields such as location and plastic type were normalized for consistency.
 
-2. SQL Analysis
+# 2. SQL Analysis
 
 Several SQL queries were executed to understand:
 
@@ -39,7 +39,7 @@ How severity level varies with distance from the coastline.
 
 These queries helped identify dominant pollution hotspots and patterns in waste types and severity.
 
-3. Dashboard Creation in Excel
+# 3. Dashboard Creation in Excel
 
 The full cleaned dataset was exported to Excel and used to create an interactive dashboard featuring:
 
@@ -53,6 +53,6 @@ Slicers (filters) for interactive analysis (Location, Plastic Type, Year, Severi
 
 When a filter is applied, all charts update automatically, allowing easy exploration of the data.
 
-4. Insight Interpretation & Recommendations
+# 4. Insight Interpretation & Recommendations
 
 Based on the visual exploration and query results, meaningful conclusions were drawn. These were then summarized along with realistic recommendations for policymakers, environmental organizations, and cleanup initiatives.
