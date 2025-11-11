@@ -1,0 +1,2 @@
+# Ocean-Plastic-Pollution-Data-Analysis-Interactive-Dashboard
+This project focuses on understanding how plastic waste accumulates in different ocean regions, what types of plastics are most prominent, and how pollution levels have changed over time. The work uses SQL-based data analysis combined with a fully interactive Excel dashboard to visualize patterns and support environmental decision-making.
